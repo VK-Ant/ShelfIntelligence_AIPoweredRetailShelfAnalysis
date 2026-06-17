@@ -96,14 +96,12 @@ Clarity of frame matters more than the model. A clean, well-lit shelf photo give
 ## Author
 
 **Venkatkumar (VK)**
-- Kaggle Master
-
-GitHub: [@vk-ant](https://github.com/vk-ant)
-Medium: [@VK_Venkatkumar](https://medium.com/@VK_Venkatkumar)
-LinkedIn: [@VK_Venkatkumar](https://linkedin.com/in/VK-Venkatkumar)
+- GitHub: [@vk-ant](https://github.com/vk-ant)
+- Medium: [@VK_Venkatkumar](https://medium.com/@VK_Venkatkumar)
+- LinkedIn: [@VK_Venkatkumar](https://linkedin.com/in/VK-Venkatkumar)
 
 ---
 
 ## License
 
-MIT — use it, modify it, build on it. Attribution appreciated.
+Apache2.0 — use it, modify it, build on it. Attribution appreciated.
