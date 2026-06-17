@@ -1,11 +1,11 @@
-# Shelf Intelligence v2.0 — AI-Powered Retail Shelf Analysis
+# Shelf Intelligence v2.0 — AI Powered Retail Shelf Analysis
 
 **One reference image. One shelf photo. Instant analysis. Fully offline.**
 
 <img width="1600" height="840" alt="VK_ShelfIntelligence_Medium_Cover(1)" src="https://github.com/user-attachments/assets/3b6532ba-a98b-4208-90b5-f9f2d133c2a0" />
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vk-ant/shelf-intelligence/blob/main/poc/VK_ShelfIntelligence_v2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VK-Ant/Shelf-Intelligence-AI-Powered-Retail-Shelf-Analysis/blob/main/POC/ShelfIntelligence_v2.ipynb)
 
 ---
 
@@ -58,19 +58,6 @@ Qwen excels at structured text extraction. Gemma excels at speed and brand recog
 5. Upload shelf image → click Analyze
 
 No API keys. No setup. No cost.
-
----
-
-## Repo Structure
-
-```
-shelf-intelligence/
-├── README.md
-├── poc/
-│   └── VK_ShelfIntelligence_v2.ipynb    # Main demo notebook
-└── assets/
-    └── cover.png                         # LinkedIn/Medium cover image
-```
 
 ---
 
